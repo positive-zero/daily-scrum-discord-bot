@@ -1,0 +1,1 @@
+worker: python daily_bot.py
