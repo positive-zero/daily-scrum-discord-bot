@@ -10,7 +10,7 @@ the role 'daily participant' by default.
 
 ### Deployment
 
-````
+```sh
 $ heroku apps:create <YOUR_APP_NAME>
 $ git push -u origin master
 ```
